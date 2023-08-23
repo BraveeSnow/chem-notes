@@ -1,0 +1,175 @@
+{
+  "main": {
+    "id": "a118921ce3746f76",
+    "type": "split",
+    "children": [
+      {
+        "id": "756a379cb46ba20c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "52750400b3b82823",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "theorems/daltons_atomic_theory.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6516908a9fd2d988",
+    "type": "split",
+    "children": [
+      {
+        "id": "ec76023650dfdd2d",
+        "type": "tabs",
+        "dimension": 60.480769230769226,
+        "children": [
+          {
+            "id": "c27ff5f40456b4de",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "34fc10a888fc03f0",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e9c1e6357420ddbc",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "1cebf2d68a52ab5d",
+        "type": "tabs",
+        "dimension": 39.51923076923077,
+        "children": [
+          {
+            "id": "647b3d017a8650d0",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f33e1fa22ecf50d4",
+    "type": "split",
+    "children": [
+      {
+        "id": "1d4904393628fe88",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "774c0d2638e47f4d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "theorems/daltons_atomic_theory.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5a772a8f3de99b52",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "theorems/daltons_atomic_theory.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "02e8b11b36494b24",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "e8d52e76e93ff4ce",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "theorems/daltons_atomic_theory.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "52750400b3b82823",
+  "lastOpenFiles": [
+    "theorems/daltons_atomic_theory.md",
+    "readme.md",
+    "theorems",
+    "reactions/redox.md",
+    "organic",
+    "rough.md",
+    "reactions"
+  ]
+}
