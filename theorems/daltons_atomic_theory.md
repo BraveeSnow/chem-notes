@@ -1,5 +1,4 @@
 # Dalton's Atomic Theory
-#theorem
 
 Published in 1807, Dalton hypothesized about the atomic structures of matter and is still valid in modern atomic theory. The following are propositions that are stated:
 

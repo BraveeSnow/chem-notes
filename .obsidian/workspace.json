@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "theorems/daltons_atomic_theory.md",
+                "file": "atoms_molecules/subatomic_particles.md",
                 "mode": "source",
                 "source": false
               }
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "theorems/daltons_atomic_theory.md",
+                "file": "atoms_molecules/subatomic_particles.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "theorems/daltons_atomic_theory.md",
+                "file": "atoms_molecules/subatomic_particles.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "theorems/daltons_atomic_theory.md"
+                "file": "atoms_molecules/subatomic_particles.md"
               }
             }
           }
@@ -165,6 +165,8 @@
   "active": "52750400b3b82823",
   "lastOpenFiles": [
     "theorems/daltons_atomic_theory.md",
+    "atoms_molecules/subatomic_particles.md",
+    "atoms_molecules",
     "readme.md",
     "theorems",
     "reactions/redox.md",
