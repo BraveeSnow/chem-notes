@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "atoms_molecules/chemical_formulae.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -113,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "atoms_molecules/chemical_formulae.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "atoms_molecules/chemical_formulae.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,16 +153,24 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "atoms_molecules/chemical_formulae.md"
+                "file": "README.md"
               }
             }
+          },
+          {
+            "id": "74ba3b1c3937b466",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -171,14 +179,17 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
   "active": "52750400b3b82823",
   "lastOpenFiles": [
-    "atoms_molecules/subatomic_particles.md",
+    "atoms_molecules/ionic_molecular_compounds.md",
     "atoms_molecules/chemical_formulae.md",
     "theorems/daltons_atomic_theory.md",
+    "atoms_molecules/subatomic_particles.md",
+    "atoms_molecules/periodic_table.md",
     "README.md",
     "atoms_molecules",
     "readme.md",
