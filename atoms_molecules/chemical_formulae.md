@@ -26,9 +26,9 @@ CC(=O)O
 COC=O
 ```
 
-Almost like [[subatomic_particles#Isotopes|isotopes]], compounds with different structures are known as **isomers**. This particular isomer is specifically called a **structural isomer**. The other type is the **spacial isomer**, which have similar structures but with differences in its *orientation*.
+Almost like [[subatomic_particles#Isotopes|isotopes]], compounds with different structures are known as **isomers**. This particular isomer is specifically called a **structural isomer**. The other type is the **spatial isomer**, which have similar structures but with differences in its *orientation*.
 
-An example of a spacial isomer is [carvone](https://pubchem.ncbi.nlm.nih.gov/compound/7439), with R-(-)-carvone on the left and (S)-(+)-carvone on the right.
+An example of a spatial isomer is [carvone](https://pubchem.ncbi.nlm.nih.gov/compound/7439), with R-(-)-carvone on the left and (S)-(+)-carvone on the right.
 ```smiles
 CC1=CC[C@H](CC1=O)C(=C)C
 CC1=CC[C@@H](CC1=O)C(=C)C
