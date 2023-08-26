@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "atoms_molecules/subatomic_particles.md",
+                "file": "atoms_molecules/chemical_formulae.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,14 +25,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "theorems/daltons_atomic_theory.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -114,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "atoms_molecules/chemical_formulae.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "atoms_molecules/chemical_formulae.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "atoms_molecules/chemical_formulae.md"
               }
             }
           }
@@ -175,11 +174,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e6fe003d4a77f631",
+  "active": "52750400b3b82823",
   "lastOpenFiles": [
     "atoms_molecules/subatomic_particles.md",
-    "README.md",
+    "atoms_molecules/chemical_formulae.md",
     "theorems/daltons_atomic_theory.md",
+    "README.md",
     "atoms_molecules",
     "readme.md",
     "theorems",

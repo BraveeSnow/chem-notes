@@ -25,11 +25,11 @@ B =& \frac{22.33g \ C}{4.19g \ H} \times \frac{1}{4.19} =& \frac{5.33g \ C}{1.00
 \end{array}$$
 > We can determine that the carbon-hydrogen ratio of these two samples is 5.33:1, which adheres to the law of definite proportions.
 
-Note that this will not work to identify if the samples are the same compound. For example, the molecules of glucose ($C_6H_{12}O_6$, left) will have the same mass ratio as acetic acid ($CH_3COOH$, right).
+Note that this will not work to identify if the samples are the same compound. For example, the molecules of [glucose](https://pubchem.ncbi.nlm.nih.gov/compound/5793) ($C_6H_{12}O_6$, left) will have the same mass ratio as [acetic acid](https://pubchem.ncbi.nlm.nih.gov/compound/176) ($CH_3COOH$, right). Some even have the same chemical formula as other compounds but differ in the [[chemical_formulae#Arrangement of Molecules|arrangement of its atoms]].
 
 ```smiles
-OC[C@H]1OC(O)[C@H](O)[C@@H](O)[C@@H]1O
-CC(O)=O
+C([C@@H]1[C@H]([C@@H]([C@H](C(O1)O)O)O)O)O
+CC(=O)O
 ```
 
 The **law of multiple proportions** states that when two elements undergo a reaction to form more than one compound, the masses of both reactants form the new compound in a *whole-number ratio*.
@@ -64,4 +64,4 @@ It is obvious that these compounds are different as they have different mass rat
 $$\frac{\frac{1.00g \ C}{1.33g \ O}}{\frac{1.00g \ C}{2.67g \ O}} = \frac{2}{1}$$
 It is clear that sample B contains twice as many oxygen atoms as sample A, which demonstrates that these samples prove the laws of definite and multiple proportions.
 
-With some inference, these compounds may be carbon monoxide (A) and carbon dioxide (B).
+With some inference, these compounds may be [carbon monoxide](https://pubchem.ncbi.nlm.nih.gov/compound/281) (A) and [carbon dioxide](https://pubchem.ncbi.nlm.nih.gov/compound/280) (B).
