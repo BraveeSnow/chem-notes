@@ -61,7 +61,7 @@ Ionic compounds may also contain polyatomic ions as the cation and/or the anion.
 
 For example, take [calcium phosphate](https://pubchem.ncbi.nlm.nih.gov/compound/24456). It has the formula $Ca_3(PO_4)_2$. For every two $PO_4^{3-}$, there are three $Ca$ present. Their charges also sum up to zero, indicating that it has a neutral charge.
 
-Note that it is improper to use a molecular formula for ionic compounds. The ions that make up the compound must be represented as a whole. Taking calcium phosphate as an example, it is not proper to write $Ca_3P_2O_8$ but must be written as $Ca_3(PO_4)_2$.
+Note that it is improper to use a [[chemical_formulae#Chemical Formulae|molecular formula]] for ionic compounds. The ions that make up the compound must be represented as a whole. Taking calcium phosphate as an example, it is not proper to write $Ca_3P_2O_8$ but must be written as $Ca_3(PO_4)_2$.
 
 ## Molecular Compounds
 
