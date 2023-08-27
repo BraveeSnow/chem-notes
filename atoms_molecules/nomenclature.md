@@ -4,13 +4,13 @@ In chemistry, **nomenclature** is important in how we name chemicals. There are 
 
 ## Inorganic Chemistry
 
-To name an inorganic compound, we need to determine if we have an [[ionic_molecular_compounds#Ionic Compounds|ionic compound]] or [[ionic_molecular_compounds#Molecular Compounds|molecular compound]]. If ionic, does it have a fixed or variable charge? Is it monatomic or polyatomic? Otherwise, if molecular, does it consist of hydrogen and/or oxygen?
+To name an inorganic compound, we need to determine if we have an [[ionic_and_molecular_compounds#Ionic Compounds|ionic compound]] or [[ionic_and_molecular_compounds#Molecular Compounds|molecular compound]]. If ionic, does it have a fixed or variable charge? Is it monatomic or polyatomic? Otherwise, if molecular, does it consist of hydrogen and/or oxygen?
 
 ### Ionic Compounds
 
 #### …with Monatomic Ions
 
-Given a compound consisting of monatomic ions, we use the name of the [[ionic_molecular_compounds#Ionic & Molecular Compounds|cation]] followed by the name of the [[ionic_molecular_compounds#Ionic & Molecular Compounds|anion]] with the -ide suffix to replace its ending. For example:
+Given a compound consisting of monatomic ions, we use the name of the [[ionic_and_molecular_compounds#Ionic & Molecular Compounds|cation]] followed by the name of the [[ionic_and_molecular_compounds#Ionic & Molecular Compounds|anion]] with the -ide suffix to replace its ending. For example:
 
 - $NaCl$ - [Sodium chloride](https://www.youtube.com/watch?v=ABM6-Kxv-mk)
 - $KBr$ - [Potassium bromide](https://pubchem.ncbi.nlm.nih.gov/compound/253877)
@@ -20,7 +20,7 @@ Given a compound consisting of monatomic ions, we use the name of the [[ionic_mo
 
 #### …with Polyatomic Ions
 
-We use the same procedure as with monatomic ions except we don't add the -ide suffix. A reference of polyatomic ions can be found [[ionic_molecular_compounds#Polyatomic Ions|here]]. Here are some examples:
+We use the same procedure as with monatomic ions except we don't add the -ide suffix. A reference of polyatomic ions can be found [[ionic_and_molecular_compounds#Polyatomic Ions|here]]. Here are some examples:
 
 - $CH_3COOK$ - [Potassium acetate](https://pubchem.ncbi.nlm.nih.gov/compound/Potassium-acetate)
 - $NaHCO_3$ - [Sodium bicarbonate](https://pubchem.ncbi.nlm.nih.gov/compound/516892)

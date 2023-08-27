@@ -4,28 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "756a379cb46ba20c",
+        "id": "8755c2728b97cd99",
         "type": "tabs",
         "children": [
           {
-            "id": "46842de26bc8537a",
+            "id": "ebbd52e15b095a60",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "theorems/daltons_atomic_theory.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "00c99530d33a8f34",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "atoms_molecules/ionic_molecular_compounds.md",
+                "file": "mathematics/mass_and_moles.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +85,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 482.5
   },
   "right": {
     "id": "f33e1fa22ecf50d4",
@@ -113,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "theorems/daltons_atomic_theory.md",
+                "file": "mathematics/mass_and_moles.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "theorems/daltons_atomic_theory.md",
+                "file": "mathematics/mass_and_moles.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "theorems/daltons_atomic_theory.md"
+                "file": "mathematics/mass_and_moles.md"
               }
             }
           },
@@ -183,16 +171,18 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "46842de26bc8537a",
+  "active": "c27ff5f40456b4de",
   "lastOpenFiles": [
-    "README.md",
+    "mathematics",
+    "atoms_molecules/ionic_and_molecular_compounds.md",
     "atoms_molecules/subatomic_particles.md",
-    "theorems/daltons_atomic_theory.md",
     "atoms_molecules/chemical_formulae.md",
-    "atoms_molecules/hydrates.md",
-    "atoms_molecules/ionic_molecular_compounds.md",
-    "atoms_molecules/nomenclature.md",
+    "mathematics/mass_and_moles.md",
+    "theorems/daltons_atomic_theory.md",
     "atoms_molecules/periodic_table.md",
+    "README.md",
+    "atoms_molecules/hydrates.md",
+    "atoms_molecules/nomenclature.md",
     "TODO.md",
     "atoms_molecules",
     "readme.md",
