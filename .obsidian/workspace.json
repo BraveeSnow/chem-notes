@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "atoms_molecules/nomenclature.md",
+                "file": "theorems/daltons_atomic_theory.md",
                 "mode": "source",
                 "source": false
               }
@@ -113,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "atoms_molecules/nomenclature.md",
+                "file": "theorems/daltons_atomic_theory.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "atoms_molecules/nomenclature.md",
+                "file": "theorems/daltons_atomic_theory.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "atoms_molecules/nomenclature.md"
+                "file": "theorems/daltons_atomic_theory.md"
               }
             }
           },
@@ -185,15 +185,15 @@
   },
   "active": "46842de26bc8537a",
   "lastOpenFiles": [
+    "README.md",
+    "atoms_molecules/subatomic_particles.md",
+    "theorems/daltons_atomic_theory.md",
+    "atoms_molecules/chemical_formulae.md",
+    "atoms_molecules/hydrates.md",
     "atoms_molecules/ionic_molecular_compounds.md",
     "atoms_molecules/nomenclature.md",
-    "theorems/daltons_atomic_theory.md",
-    "atoms_molecules/hydrates.md",
     "atoms_molecules/periodic_table.md",
-    "atoms_molecules/subatomic_particles.md",
     "TODO.md",
-    "README.md",
-    "atoms_molecules/chemical_formulae.md",
     "atoms_molecules",
     "readme.md",
     "theorems",

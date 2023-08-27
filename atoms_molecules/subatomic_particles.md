@@ -63,6 +63,10 @@ Rutherford's deduction of the outcome reveals that the unaffected particles shou
 
 Rutherford's model of the atom is widely used today. A simulation of the experiment can be found [here](https://micro.magnet.fsu.edu/electromag/java/rutherford/).
 
+This discovery is what led to the modern model of the atom, known as the **Bohr model** (or Rutherford-Bohr).
+
+![](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.britannica.com%2F09%2F149209-004-E4AA2D63.jpg&f=1&nofb=1&ipt=7ef10a2adbef5f598d3bb6ed57f14b7241b60da4daecde11cd62f684b4b6bcee&ipo=images)
+
 ## Isotopes
 
 An **isotope** is an atom of the same element but differ in mass when compared to others. This is explained by the discovery of the final subatomic particle: the **neutron**. Isotopes of an element contain the same amount of electrons and protons with the only difference being in the amount of neutrons.
